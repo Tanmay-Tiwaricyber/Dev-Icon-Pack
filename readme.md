@@ -1,4 +1,4 @@
-<p align="center"><img align="center" width="280" src="https://github.com/Tanmay-Tiwaricyber/Dev-Icon-Pack/blob/main/logo.png#gh-light-mode-only"/></p>
+<p align="center"><img align="center" width="280" src="https://github.com/Tanmay-Tiwaricyber/Dev-Icon-Pack/blob/main/logo.png"/></p>
 <h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
 <hr>
 
@@ -17,8 +17,8 @@
 
 # Example
 
-<p align="center"><img align="center" src="./.github/example-dark.png#gh-dark-mode-only"/></p>
-<p align="center"><img align="center" src="./.github/example-light.png#gh-light-mode-only"/></p>
+<p align="center"><img align="center" src="https://github.com/Tanmay-Tiwaricyber/Dev-Icon-Pack/blob/main/example.PNG"/></p>
+
 
 # Specifying Icons
 
